@@ -1,0 +1,5 @@
+a=int(input(""))
+b=int(input(""))
+c=int(input(""))
+r=((c//2)*(2*a+(c-1)*b))
+print(r)
